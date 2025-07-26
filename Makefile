@@ -1,5 +1,4 @@
-
-export THEOS=/var/mobile/theos
+THEOS=/home/codespace/theos
 
 include $(THEOS)/makefiles/common.mk
 
