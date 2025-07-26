@@ -1,9 +1,8 @@
-
-export THEOS=/var/mobile/theos
+THEOS=/home/codespace/theos
 
 include $(THEOS)/makefiles/common.mk
 
-TWEAK_NAME = VTIOS
+TWEAK_NAME = DKV36
 
 $(TWEAK_NAME)_FILES = FPSDisplay.m
 

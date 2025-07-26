@@ -1,9 +1,9 @@
-Package: com.vanthanhisme.vtios
-Name: VTIOS
+Package: com.duongkhacvu36.dkv36
+Name: DKV36
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
-Maintainer: @VTIOS
-Author: @VTIOS
+Maintainer: @DKV36
+Author: @DKV36
 Section: Tweaks
