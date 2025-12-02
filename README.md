@@ -4,7 +4,7 @@
 - Nhấp 3 ngón tay vào màn hình để dán nếu bắt chọn y & n thì chọn y
 - Chuyển sang tab mới và nhập từng lệnh: 
 - echo $THEOS
-- git clone (link)
+- git clone https://github.com/duongkhacvu36/Head_Text.git
 - cd Head_Text
 - ls
 - make
