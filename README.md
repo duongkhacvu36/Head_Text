@@ -1,0 +1,10 @@
+Hướng dẫn:
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/theos/theos/master/bin/install-theos)"
+Dán vào TERMINAL nếu bắt chọn y & n thì chọn y
+Chuyển sang tab mới nhập từng lệnh: 
+echo $THEOS
+git clone (link)
+cd Head_Text
+ls
+make
+Tệp dylib đã tạo nhấp giữ để tải về.
