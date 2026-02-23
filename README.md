@@ -9,3 +9,4 @@
 - ls
 - make
 - Tệp dylib đã được tạo trong phần .theos nhấp giữ để tải về.
+- Link hướng dẫn https://youtu.be/G3DAtmCtdtQ?si=JHtGo5WnIjtPSzTr
